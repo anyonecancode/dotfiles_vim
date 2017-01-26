@@ -1,2 +1,3 @@
 # dotfiles_vim
-Vim configurations
+
+Vim configurations (the `.vimrc` file).
